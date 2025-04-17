@@ -1,5 +1,9 @@
+enableInlineShortcodes: true
+defaultContentLanguage: zh-cn
 # Hugo configuration file
-title: A Warehouse
+baseURL: "https://www.dustymind.cc/warehouse-website/"
+title: "A Warehouse"
+enableGitInfo: true
 
 # import hextra as module
 module:
@@ -24,15 +28,15 @@ menu:
     - name: 音MAD工程
       pageRef: /otomads
       weight: 2
-    - name: Search
-      weight: 3
-      params:
-        type: search
     - name: GitHub
-      weight: 4
+      weight: 3
       url: "https://github.com/Dustymind/warehouse-website"
       params:
         icon: github
+    - name: Search
+      weight: 4
+      params:
+        type: search
 
 params:
   navbar:
