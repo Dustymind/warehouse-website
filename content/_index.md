@@ -1,17 +1,16 @@
 ---
-title: My Site
+title: A Warehouse
 toc: false
+cascade:
+  type: docs
 ---
 
-This is the landing page.
+一个仓库。
 
 ## Explore
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
+  {{< card link="aosc-self-use" title="AOSC OS 自用软件包" icon="book-open" >}}
+  {{< card link="otomads" title="音MAD 工程" >}}
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
-
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
