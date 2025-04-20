@@ -10,7 +10,7 @@ draft: false
 编译/安装顺序见各软件包（组）说明。  
 具体的编译步骤请参考[AOSC Wiki](https://wiki.aosc.io/zh/developer/packaging/basics/)
 
-# libTAS
+## libTAS
 
 See also [libTAS](https://github.com/clementgallet/libTAS).
 
