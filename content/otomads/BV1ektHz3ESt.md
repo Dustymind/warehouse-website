@@ -15,8 +15,7 @@ BV 号：[BV1ektHz3ESt](https://www.bilibili.com/video/BV1ektHz3ESt/)
 视频工程：  
 Vegas Pro 版本号 ≥ `Version 22.0 (Build 239)`  
 需安装蓝宝石插件  
-
-如果不行，可再安装红巨星插件。
+如果不行，可再安装红巨星插件
 
 音频工程：  
 FL Studio 版本号 ≥ `20.7.2 build 1863`   
@@ -24,11 +23,12 @@ FL Studio 版本号 ≥ `20.7.2 build 1863`
 
 ## 工程文件下载链接：  
 
-- 蓝奏云：
-    - 视频工程：所有 rar 文件
-    - 音频工程：`もうドアには入れない-stream-midi.zip`
+- 蓝奏云（仅音频工程）：
     - 链接：`https://mrliu646.lanzouq.com/b0j0suw8d`
     - 密码：`h63u`
+
+- 百度云：
+    - 链接：`https://pan.baidu.com/s/1Dw55m1N2ZxG0V5zLWFSLjA&pwd=ynue`
 
 - GitHub Releases（备用，请确保自己的网络与国际互联网连接畅通）：
     - 文件名见表格
