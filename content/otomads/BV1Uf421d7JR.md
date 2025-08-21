@@ -9,8 +9,15 @@ draft: false
 
 BV 号：[BV1Uf421d7JR](https://www.bilibili.com/video/BV1Uf421d7JR/)
 
+## 工程文件依赖：
+音频工程：  
+FL Studio 版本号 ≥ `20.7.2 build 1863`   
+[You Wa Shock !](https://otomad.wiki/You_Wa_Shock_!) 已安装
+
 ## 工程文件下载链接：  
 
-蓝奏云：`https://www.lanzouq.com/iM5HF2u1bp1g`
+蓝奏云：  
+`https://www.lanzouq.com/iM5HF2u1bp1g`
 
-GitHub 反代（备用）：`https://static.dustymind.cc/api/test2-240326-dirty.zip`
+GitHub Releases（备用，请确保自己的网络与国际互联网连接畅通）：  
+`https://github.com/Dustymind/static/releases/tag/otomads`
