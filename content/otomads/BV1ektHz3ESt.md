@@ -27,7 +27,8 @@ FL Studio 版本号 ≥ `20.7.2 build 1863`
 - 蓝奏云：
     - 视频工程：所有 rar 文件
     - 音频工程：`もうドアには入れない-stream-midi.zip`
-    - 链接：`https://www.lanzouq.com/iM5HF2u1bp1g`
+    - 链接：`https://mrliu646.lanzouq.com/b0j0suw8d`
+    - 密码：`h63u`
 
 - GitHub Releases（备用，请确保自己的网络与国际互联网连接畅通）：
     - 文件名见表格
