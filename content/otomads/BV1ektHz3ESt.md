@@ -24,7 +24,7 @@ FL Studio 版本号 ≥ `20.7.2 build 1863`
 ## 工程文件下载链接：  
 
 - 蓝奏云（仅音频工程）：
-    - 链接：`https://mrliu646.lanzouq.com/b0j0suw8d`
+    - 链接：`https://www.lanzouq.com/b0j0suw8d`
     - 密码：`h63u`
 
 - 百度云：
