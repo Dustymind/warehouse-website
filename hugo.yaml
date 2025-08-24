@@ -22,19 +22,16 @@ markup:
 
 menu:
   main:
-    - name: AOSC 自用软件包
-      pageRef: /about
-      weight: 1
     - name: 音MAD工程
       pageRef: /otomads
-      weight: 2
+      weight: 1
     - name: GitHub
-      weight: 3
+      weight: 2
       url: "https://github.com/Dustymind/warehouse-website"
       params:
         icon: github
     - name: Search
-      weight: 4
+      weight: 3
       params:
         type: search
 
