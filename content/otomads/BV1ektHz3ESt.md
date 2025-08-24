@@ -11,7 +11,13 @@ draft: false
 
 BV 号：[BV1ektHz3ESt](https://www.bilibili.com/video/BV1ektHz3ESt/)
 
-## 工程文件依赖：
+## 引用的素材
+[汤姆吹水管GB](https://www.bilibili.com/video/BV1Qt411X7Tt/) by [萎缩的帝国](https://space.bilibili.com/38218404/)
+
+## 使用的 midi
+`https://www.midishow.com/midi/205828.html`
+
+## 工程文件依赖
 视频工程：  
 Vegas Pro 版本号 ≥ `Version 22.0 (Build 239)`  
 需安装蓝宝石插件  
@@ -21,7 +27,7 @@ Vegas Pro 版本号 ≥ `Version 22.0 (Build 239)`
 FL Studio 版本号 ≥ `20.7.2 build 1863`   
 需安装 [You Wa Shock !](https://otomad.wiki/You_Wa_Shock_!)
 
-## 工程文件下载链接：  
+## 工程文件下载链接
 
 - 蓝奏云（仅音频工程）：
     - 链接：`https://www.lanzouq.com/b0j0suw8d`
