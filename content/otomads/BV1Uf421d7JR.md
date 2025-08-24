@@ -9,12 +9,12 @@ draft: false
 
 BV 号：[BV1Uf421d7JR](https://www.bilibili.com/video/BV1Uf421d7JR/)
 
-## 工程文件依赖：
+## 工程文件依赖
 音频工程：  
 FL Studio 版本号 ≥ `20.7.2 build 1863`   
 需安装 [You Wa Shock !](https://otomad.wiki/You_Wa_Shock_!)
 
-## 工程文件下载链接：  
+## 工程文件下载链接
 
 - 蓝奏云：
     - 链接：`https://www.lanzouq.com/iM5HF2u1bp1g`
