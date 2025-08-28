@@ -33,7 +33,7 @@ FL Studio 版本号 ≥ `20.7.2 build 1863`
     - 链接：`https://www.lanzouq.com/b0j0suw8d`
     - 密码：`h63u`
 
-- 123 云盘（可能需要登录/付费，酌情使用）：
+- 123 云盘（视频工程下载需要登录/付费1￥，酌情使用）：
     - 链接：`https://www.123865.com/s/WwMKVv-t1QV`
     - 密码：`LO2Y`
 
