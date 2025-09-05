@@ -12,8 +12,9 @@ draft: false
 BV 号：[BV1ektHz3ESt](https://www.bilibili.com/video/BV1ektHz3ESt/)
 
 ## 引用的素材
-[汤姆吹水管GB](https://www.bilibili.com/video/BV1Qt411X7Tt/) by [萎缩的帝国](https://space.bilibili.com/38218404/)  
-东方天空璋道中背景素材 [[Bilibili(转载)](https://www.bilibili.com/video/BV16j411K7tp/)] [[Youtube](https://www.youtube.com/watch?v=VLbG9gmhHWw)] by [Daikarasu](https://www.youtube.com/@Daikarasu)
+- [汤姆吹水管GB](https://www.bilibili.com/video/BV1Qt411X7Tt/) by [萎缩的帝国](https://space.bilibili.com/38218404/)  
+- 东方天空璋道中背景素材 [[Bilibili(转载)](https://www.bilibili.com/video/BV16j411K7tp/)] [[Youtube](https://www.youtube.com/watch?v=VLbG9gmhHWw)] by [Daikarasu](https://www.youtube.com/@Daikarasu)  
+  Original version by ZUN
 
 ## 使用的 midi
 `https://www.midishow.com/midi/205828.html`
