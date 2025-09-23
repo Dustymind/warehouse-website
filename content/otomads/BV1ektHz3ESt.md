@@ -41,6 +41,7 @@ FL Studio 版本号 ≥ `20.7.2 build 1863`
 
 - 百度云：
     - 链接：`https://pan.baidu.com/s/1Dw55m1N2ZxG0V5zLWFSLjA&pwd=ynue`
+    - 提取码：`ynue`
 
 - GitHub Releases（备用，请确保自己的网络与国际互联网连接畅通）：
     - 文件名见表格
